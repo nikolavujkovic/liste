@@ -8,7 +8,7 @@
 
 ## Esempio di foto ##
 
-<img src="https://user-images.githubusercontent.com/85709802/204106743-3e4f6cb9-126b-4aee-bdf7-4f777c1468e3.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/85709802/204106743-3e4f6cb9-126b-4aee-bdf7-4f777c1468e3.png" width=450>
 
 
 ## Come usare: ##
