@@ -38,4 +38,6 @@ int main(){
 	
 	head = distruggilista(head);
 	visualizza(head);
+	
+	return 0;
 }
